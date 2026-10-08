@@ -33,4 +33,4 @@ A mobile life-countdown app with Firebase and AI-powered content integration.
 - Mobile applications and API integrations
 - Coding-agent orchestration and workflow automation
 
-[Website portfolio](https://github.com/catflyx520/Websites-Portfolio) · [LinkedIn](https://www.linkedin.com/in/zhongyu-wu-59baa4202/)
+[LinkedIn](https://www.linkedin.com/in/zhongyu-wu-59baa4202/)
