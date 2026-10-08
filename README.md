@@ -8,21 +8,17 @@ My recent projects explore AI-assisted software engineering: coordinating coding
 
 ## Selected projects
 
-### Agents Office
+### [Agents Office](https://github.com/catflyx520/agents-office)
 
 A local workspace for coordinating Claude Code and OpenAI Codex agents, with task planning, team coordination, approval workflows, session history, and usage tracking. A virtual office provides the interface for working with the agents.
 
 **Node.js · Express · WebSockets · Claude Code · OpenAI Codex**
 
-Source repository is currently private.
-
-### Financial Summary
+### [Financial Summary](https://github.com/catflyx520/FinancialSummary)
 
 A personal finance workspace for transactions, accounts, recurring payments, and spending trends. Supports a browser-local ledger, optional Firebase cloud storage, local Chase PDF statement processing, and Chinese / English interfaces.
 
 **React · TypeScript · Firebase · Firestore · PDF.js**
-
-Source repository is currently private.
 
 ### [LifeCountDown](https://github.com/catflyx520/LifeCountDown)
 
