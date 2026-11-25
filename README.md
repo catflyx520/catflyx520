@@ -1,36 +1,39 @@
 # Zhongyu (Kay) Wu
 
-**Full-Stack Software Engineer | .NET · TypeScript · Node.js · AI Engineering**
+**Full-Stack Software Engineer | .NET 8 · Vue 3 · React · TypeScript · Flutter | LLM agents · RAG · MCP · evals**
 
-I build web applications, backend services, mobile apps, and developer tools. My focus is taking features from API and data design through implementation and deployment.
+5 years building backend, web and mobile products end to end. I also build LLM agents and RAG tools with LangGraph and MCP, and test them with labeled evals.
 
-My recent projects explore AI-assisted software engineering: coordinating coding agents, planning tasks, managing sessions, and keeping people in control of execution.
+[Portfolio](https://catfly.dev) · [LinkedIn](https://www.linkedin.com/in/zhongyu-wu-kay/) · [Email](mailto:painewu@gmail.com)
 
-## Selected projects
+## Projects
 
-### [Agents Office](https://github.com/catflyx520/agents-office)
+### [Job Hunter Agent](https://github.com/catflyx520/job-hunter-agent) · [Demo](https://catfly.dev/job-hunter/)
 
-A local workspace for coordinating Claude Code and OpenAI Codex agents, with task planning, team coordination, approval workflows, session history, and usage tracking. A virtual office provides the interface for working with the agents.
+AI job search assistant. It scores job postings against your resume and drafts cover letters using only facts from that resume. On 40 labeled job posts: 100% field extraction, 87.5% decision match.
 
-**Node.js · Express · WebSockets · Claude Code · OpenAI Codex**
+`Python · FastAPI · LangGraph · pgvector · React`
 
-### [Financial Summary](https://github.com/catflyx520/FinancialSummary)
+### [Agents Office](https://github.com/catflyx520/agents-office) · [Demo](https://catfly.dev/agent-office/)
 
-A personal finance workspace for transactions, accounts, recurring payments, and spending trends. Supports a browser-local ledger, optional Firebase cloud storage, local Chase PDF statement processing, and Chinese / English interfaces.
+Multi-agent software engineering orchestrator. A PM agent breaks a feature request into ordered tasks for Claude and OpenAI agents working in parallel. Token usage cut by 86%.
 
-**React · TypeScript · Firebase · Firestore · PDF.js**
+`Node.js · Express · MCP · Docker · AWS`
 
-### [LifeCountDown](https://github.com/catflyx520/LifeCountDown)
+### [Skill Installer](https://github.com/catflyx520/skill-installer) · [Demo](https://catfly.dev/skill-installer/)
 
-A mobile life-countdown app with Firebase and AI-powered content integration.
+One command that installs a skill into Claude Code, Codex, Cursor and Gemini CLI. No dependencies, published on npm, 35 end-to-end tests.
 
-**React Native · Expo · TypeScript · Firebase**
+`Node.js · npm · GitHub Actions`
 
-## Engineering interests
+### [Financial Summary](https://github.com/catflyx520/FinancialSummary) · [Demo](https://catfly.dev/financial-summary/)
 
-- Full-stack applications and backend APIs
-- Real-time systems and developer tooling
-- Mobile applications and API integrations
-- Coding-agent orchestration and workflow automation
+Personal finance workspace with local ledgers, recurring transactions and PDF statement import.
 
-[LinkedIn](https://www.linkedin.com/in/zhongyu-wu-59baa4202/)
+`React · TypeScript · Vite · Firebase`
+
+### [LifeCountDown](https://github.com/catflyx520/LifeCountDown) · [Demo](https://life-count-down.vercel.app)
+
+Mobile app that shows a daily countdown of your remaining time, with daily check-ins and Android home-screen widgets.
+
+`React Native · Expo · TypeScript · Firebase`
