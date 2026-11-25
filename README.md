@@ -20,9 +20,9 @@ Multi-agent software engineering orchestrator. A PM agent breaks a feature reque
 
 `Node.js · Express · MCP · Docker · AWS`
 
-### [Skill Installer](https://github.com/catflyx520/skill-installer) · [Demo](https://catfly.dev/skill-installer/)
+### [Skill Installer](https://github.com/catflyx520/skill-installer) · [Live site](https://catfly.dev/skill-installer/)
 
-One command that installs a skill into Claude Code, Codex, Cursor and Gemini CLI. No dependencies, published on npm, 35 end-to-end tests.
+One command, or one web page, that installs a skill into Claude Code, Codex, Cursor and Gemini CLI. No dependencies, published on npm, 35 end-to-end tests.
 
 `Node.js · npm · GitHub Actions`
 
